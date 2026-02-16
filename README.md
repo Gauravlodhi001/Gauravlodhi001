@@ -60,7 +60,7 @@ A machine learning model to predict financial risk for investment portfolios.
 <div align="center">
 
 <a href="https://github.com/Gauravlodhi001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gauravlodhi001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gauravlodhi001&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravlodhi001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </a>
 
