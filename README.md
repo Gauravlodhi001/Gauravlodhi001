@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="main/animate_this_logo_in_a_video_g.mp4" alt="Banner" width="100%" />
+  <img src="main/animate_this_logo_in_a_video_g.mp4" alt="animate_this_logo_in_a_video_g" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/Gauravlodhi001" target="_blank">Gaurav Lodhi</a> 
